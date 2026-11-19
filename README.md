@@ -6,8 +6,8 @@ Lab 8 for CDS 230. Here we learn and experiment with two new datasets and attemp
 ## Datasets Used
 KNN:
 
-- 
-- 
+- https://www.kaggle.com/datasets/beamhonor0911/global-instagram-influencers-analytics-2026
+- https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020
 
 NB:
 
