@@ -11,5 +11,5 @@ KNN:
 
 NB:
 
-- 
-- 
+- https://www.kaggle.com/datasets/umuttuygurr/spidey-tracker-spiderman-dataset
+- https://www.kaggle.com/datasets/amananandrai/clickbait-dataset
